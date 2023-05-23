@@ -4,6 +4,8 @@ class sum
     {
         int x=3,y=4,z;
         z=x+y;
-        System.out.println(""+z);
-    }
+        System.out.println("the sum is"+z);
+         z=x*y;
+         System.out.println("the sum is"+z);
+    } 
 }
